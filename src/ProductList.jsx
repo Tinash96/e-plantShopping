@@ -3,6 +3,7 @@ import './ProductList.css'
 import CartItem from './CartItem';
 import { addItem } from './CartSlice';
 
+
 function ProductList({ onHomeClick }) {
     const [showCart, setShowCart] = useState(false);
     const [showPlants, setShowPlants] = useState(false); // State to control the visibility of the About Us page
