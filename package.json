@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tinash96.github.io/e-plantShopping",  // <-- Add it here
+  "homepage": "https://tinash96.github.io/e-plantShopping",  
 
   "scripts": {
     "dev": "vite",
